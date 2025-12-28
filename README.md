@@ -1,6 +1,6 @@
 # AWS Webstack Deployment Project
 
-![Architecture Diagram](architecture-diagram.png)
+![Architecture Diagram](architecture-diagram.jpg)
 
 ## Project Overview
 
