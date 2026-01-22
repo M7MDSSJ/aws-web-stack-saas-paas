@@ -57,4 +57,8 @@ For detailed step-by-step deployment instructions, please see the `/docs` folder
 
 ---
 
+**⚠️ Disclaimer**: This project is based on the "Decoding DevOps – From Basics to Advanced Projects with AI" course on Udemy.  
+You can find the course here: [Decoding DevOps – From Basics to Advanced Projects with AI](https://www.udemy.com/course/decodingdevops/?couponCode=KEEPLEARNINGOCTA)  
+
+
 *Made with ❤️ for clear and organized AWS webstack deployment*
